@@ -5,7 +5,7 @@ SELECT
     p.Product_ID,
     p.Product_Name,
     o.Quantity,
-    o.Order_Date
+    o.Order_Date 
 FROM
     raw.orders o
 JOIN
