@@ -1,3 +1,3 @@
 {% docs my_first_dbt_model %}
-This model represents the sales data aggregated by month.
+This model transforms raw data into a summary table.
 {% enddocs %}
